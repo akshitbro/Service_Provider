@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp2\htdocs\omni\resources\views/register_details_for_pet_qrcode1.blade.php ENDPATH**/ ?>
